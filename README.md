@@ -1,15 +1,15 @@
 ✨ Features
-User Signup & Login
+1- User Signup & Login
 
-Create & View Posts
+2- Create & View Posts
 
-Add Comments on Posts
+3- Add Comments on Posts
 
-Send & Accept Friend Requests
+4- Send & Accept Friend Requests
 
-View Friends List
+5- View Friends List
 
-Data Persistence with File Handling
+6- Data Persistence with File Handling
 
 A social networking platform is an online service or website that enables individuals to create personal profiles, connect with others, and share content such as messages, photos, videos, and updates. These platforms facilitate communication, collaboration, and interaction among users, often based on shared interests, activities, or real-life relationships.
 
